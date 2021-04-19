@@ -4,4 +4,4 @@ R = Un espacio en donde pueda practicar mis conocimientos tanto de git, github y
 
 ## ¿Sabes lo que haces?
 
-R = Para nada. No sé que está pasando.
+R = Para nada. No sé que está pasando. Solo ando experimentando.
